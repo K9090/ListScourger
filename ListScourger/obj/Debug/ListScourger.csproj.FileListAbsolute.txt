@@ -1,0 +1,7 @@
+C:\Users\Timo\source\repos\ListScourger\ListScourger\bin\Debug\ListScourger.exe.config
+C:\Users\Timo\source\repos\ListScourger\ListScourger\bin\Debug\ListScourger.exe
+C:\Users\Timo\source\repos\ListScourger\ListScourger\bin\Debug\ListScourger.pdb
+C:\Users\Timo\source\repos\ListScourger\ListScourger\obj\Debug\ListScourger.csprojResolveAssemblyReference.cache
+C:\Users\Timo\source\repos\ListScourger\ListScourger\obj\Debug\ListScourger.csproj.CoreCompileInputs.cache
+C:\Users\Timo\source\repos\ListScourger\ListScourger\obj\Debug\ListScourger.exe
+C:\Users\Timo\source\repos\ListScourger\ListScourger\obj\Debug\ListScourger.pdb
